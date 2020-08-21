@@ -16,10 +16,9 @@ redirect_from: "/rules/posting.md"
 
 ## NO PIRACY.
 
-   * Don't ask or tell where to find pirated software. Don't post about pirating software in any way shape or form. It violates rule #3.
-   
-   * Piracy friendly forums are often targeted legally by the legitimate I.P. holders. Being known as one puts the community at risk. If you see a link or discussion regarding piracy please report it.
-
+   * Piracy violates Reddit's Terms of Service. We understand that the modding community and piracy are often intertwined, but in this case we do not allow it.
+   * This includes giving or asking for sources for games or copy protected software, as well as discussion of the topic.
+   * If you see someone asking for games, or posting game sites, or taking about piracy, please report it.
 
 ## Help Requests & Questions:
 
@@ -27,8 +26,6 @@ redirect_from: "/rules/posting.md"
 
    * If you're wondering where to start and are about to make a post to ask about it, please do not;
 
-     [The Recommended Guide](https://wii.guide/).
-   
      [The WiiHacks Wiki F.A.Q.](https://www.wiihacks.org/faqs)
 
    * Your title must be brief and completely encompass your issue. Short titles that convey no information and long titles that give full histories and are hard to read will be removed.
@@ -46,9 +43,9 @@ redirect_from: "/rules/posting.md"
 
 ## Post Not Showing up?
 
-   * If you post something that doesn't show up, be patient. Questionable links need to be approved as well as everything new accounts posts. If you've waited what you consider a reasonable amount of time send a message to modmail.
+   * If you post something that doesn't show up, be patient. Questionable links need to be approved as well as everything new accounts posts. If you've waited what you consider a reasonable amount of time send a message to [modmail](https://www.reddit.com/message/compose/?to=/r/WiiHacks).
 
 ## Need to contact a moderator?
 
-   * Modmail is the only accepted form of communication with the subreddit staff.
+   * [Modmail](https://www.reddit.com/message/compose/?to=/r/WiiHacks) is the only accepted form of communication with the subreddit staff.
    * Don't PM or chat request the moderators on subreddit related issues.
