@@ -18,7 +18,7 @@ redirect_from: "/rules/posting.md"
 
    * Piracy violates Reddit's Terms of Service. We understand that the modding community and piracy are often intertwined, but in this case we do not allow it.
    * This includes giving or asking for sources for games or copy protected software, as well as discussion of the topic.
-   * If you see someone asking for games, or posting game sites, or taking about piracy, please report it.
+   * If you see someone asking for games, or posting game sites, or taking about piracy please report it.
 
 ## Help Requests & Questions:
 

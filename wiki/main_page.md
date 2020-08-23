@@ -36,11 +36,15 @@ Here is a [link to our Discord](https://discord.gg/6fsXnTr)
     
    Tutorials for different tasks.
 
-5. [WiiDev](./wiidev/wiidev.md) 
+5. [Recommended Hardware](./amazon/hardware.md)
+
+   Our curated list of Amazon items that will aid you in modding your Wii.
+
+6. [WiiDev](./wiidev/wiidev.md) 
    
    Development on the Wii.
 
-6. [Useful Links](./links/links.md)
+7. [Useful Links](./links/links.md)
    
    Extra links.
 
