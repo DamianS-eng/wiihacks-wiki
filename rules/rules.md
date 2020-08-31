@@ -60,4 +60,4 @@ redirect_from: "/rules/rules.md"
 
   * If you have questions regarding the rules or bans, please feel free to message the moderators via modmail.
 
-# [Moderator Rules](./rules_mod.md)
+# [Moderator Rules](./mod-rules.md)

@@ -1,7 +1,7 @@
 ---
 title: r/WiiHacks Wiki
 description: A wiki maintained by the r/WiiHacks community.
-redirect_from: "/"
+redirect_from: "/main_page"
 ---
 
 # Welcome to the r/WiiHacks Wiki!
@@ -47,5 +47,3 @@ Here is a [link to our Discord](https://discord.gg/6fsXnTr)
 7. [Useful Links](./links/links.md)
    
    Extra links.
-
-<script data-ad-client="ca-pub-4278079994159351" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
