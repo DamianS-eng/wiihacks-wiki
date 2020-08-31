@@ -1,7 +1,7 @@
 ---
 title: Wiki -> Rules
 description: The rules of r/WiiHacks
-redirect_from: "/rules/rules.md"
+redirect_from: "/rules/"
 ---
 
 # Rules for r/WiiHacks Users
