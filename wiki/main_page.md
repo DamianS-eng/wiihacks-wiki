@@ -36,7 +36,7 @@ Here is a [link to our Discord](https://discord.gg/6fsXnTr)
     
    Tutorials for different tasks.
 
-5. [Recommended Hardware](./amazon/hardware.md)
+5. [Recommended Hardware](./amazon/amazon.md)
 
    Our curated list of Amazon items that will aid you in modding your Wii.
 
