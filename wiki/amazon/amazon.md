@@ -1,7 +1,7 @@
 ---
 title: r/WiiHacks Curated Amazon Product List
 description: Our curated list of Amazon items that will aid you in modding your Wii.
-redirect_from: "/amazon/hardware.md"
+redirect_from: "/amazon/amazon.md"
 ---
 
 ## Curated Amazon Product List
