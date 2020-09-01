@@ -10,7 +10,7 @@ redirect_from: "/amazon/amazon.md"
 
 ### SD Cards and Readers
 
-  Why are there two cards, 30 gigs apart in size, yet the same price? Compatibility. There will be certain homebrew that having that plan old SD card will help you with. Most people the 32GB option should be great.
+  Why are there two cards, 30 gigs apart in size, yet the same price? Compatibility. There will be certain homebrew that require the use of a standard SD card, which is 2GB or less. For most people the 32GB option should be great.
 
 #### 2GB
 
@@ -49,7 +49,7 @@ redirect_from: "/amazon/amazon.md"
 
 ### Component to HDMI
 
-  Do you have your component cable? If so you want one of these as they will allow you a great quality video conversion. My setup includes the higher cost option:
+  Do you have your component cable? If so, you'll want one of these as they will allow you a great quality video conversion. My setup includes the higher cost option:
 
 #### Higher Cost Option
   
