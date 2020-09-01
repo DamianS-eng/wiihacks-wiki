@@ -12,7 +12,7 @@ redirect_from: "/amazon/amazon.md"
 
 ### SD Cards and Readers
 
-  Why are there two cards, 30 gigs apart in size, yet the same price? Compatibility. There will be certain homebrew that having that plan old SD card will help you with. Most people the 32GB option should be great.
+  Why are there two cards, 30 gigs apart in size, yet the same price? Compatibility. There will be certain homebrew that require the use of a standard SD card, which is 2GB or less. For most people the 32GB option should be great.
 
 #### 2GB
 
@@ -51,7 +51,7 @@ redirect_from: "/amazon/amazon.md"
 
 ### Component to HDMI
 
-  Do you have your component cable? If so you want one of these as they will allow you a great quality video conversion. My setup includes the higher cost option:
+  Do you have your component cable? If so, you'll want one of these as they will allow you a great quality video conversion. My setup includes the higher cost option:
 
 #### Higher Cost Option
   
@@ -142,7 +142,7 @@ redirect_from: "/amazon/amazon.md"
 
 #### 2.5" SATA USB 3.0
 
-  For less than ten dollars USD, this is a great deal. I own two and we have at least a few more circling through the moderation staff. They can fit any 2.5" drive and work well with the ones listed below.
+  For less than ten dollars USD, this is a great deal. I own two and we have at least a few more circling through the moderation staff. They can fit any 2.5" SATA drive and work well with the ones listed above.
   
   * ID: B00OJ3UJ2S
   * Title: Sabrent 2.5-Inch SATA to USB 3.0 Tool-Free External Hard Drive Enclosure
@@ -180,7 +180,7 @@ redirect_from: "/amazon/amazon.md"
 
 ### USB 3.0 HDMI Capture
 
-  This is what I am currently using to run my my newly converted component to hdmi video out to my streaming PC.
+  This is what I am currently using to run my newly converted component to hdmi video out to my streaming PC.
 
   * ID:B0894DDD7H
   * Title: ZasLuke 4K HDMI Game Capture Card, USB 3.0 HDMI Video Capture Device with HDMI Loop-Out 1080P 60FPS Live Streaming Game Recorder Device for PS4, Nintendo Switch, Xbox One&Xbox 360 and More (Black) 
