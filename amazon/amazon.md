@@ -8,6 +8,8 @@ redirect_from: "/amazon/amazon.md"
 
   This list presents hardware that has been tested and used, or is currently used by our staff with their Wii hardware.
 
+ **Disclaimer** These are Amazon Affiliate Links. If you click on them and order something we get a kickback.
+
 ### SD Cards and Readers
 
   Why are there two cards, 30 gigs apart in size, yet the same price? Compatibility. There will be certain homebrew that having that plan old SD card will help you with. Most people the 32GB option should be great.
