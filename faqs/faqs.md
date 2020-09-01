@@ -114,7 +114,7 @@ redirect_from: "/faqs/faqs.md"
 
 ### What Modded Wii Games can I play?
 
-  * Check out our [useful links](https://www.wiihacks.org/links) page.
+  * Check out our [useful links](https://www.wiihacks.org/links/links) page.
 
 ----
 

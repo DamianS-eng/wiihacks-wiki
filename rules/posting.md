@@ -6,7 +6,7 @@ redirect_from: "/rules/posting.md"
 
 # Posting Guidelines.
 
-  The [wiki entry](https://www.wiihacks.org/posting), and the stickied post are to remain in sync with this document.
+  The [wiki entry](https://www.wiihacks.org/rules/posting), and the stickied post are to remain in sync with this document.
 
 ----
 
@@ -26,7 +26,7 @@ redirect_from: "/rules/posting.md"
 
    * If you're wondering where to start and are about to make a post to ask about it, please do not;
 
-     [The WiiHacks Wiki F.A.Q.](https://www.wiihacks.org/faqs)
+     [The WiiHacks Wiki F.A.Q.](https://www.wiihacks.org/faqs/faqs)
 
    * Your title must be brief and completely encompass your issue. Short titles that convey no information and long titles that give full histories and are hard to read will be removed.
 
