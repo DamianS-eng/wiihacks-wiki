@@ -178,7 +178,7 @@ redirect_from: "/amazon/amazon.md"
 
 ### USB 3.0 HDMI Capture
 
-  This is what I am currently using to run my my newly converted component to hdmi video out to my streaming PC.
+  This is what I am currently using to run my newly converted component to hdmi video out to my streaming PC.
 
   * ID:B0894DDD7H
   * Title: ZasLuke 4K HDMI Game Capture Card, USB 3.0 HDMI Video Capture Device with HDMI Loop-Out 1080P 60FPS Live Streaming Game Recorder Device for PS4, Nintendo Switch, Xbox One&Xbox 360 and More (Black) 
