@@ -123,7 +123,7 @@ web:
     url: 'https://www.reddit.com/r/WiiHacks/comments/gcm94u/hackmii_installer_frozen_on_scam_screen_no_ios/'
     date: 2020-05-03
     description: ''
-    piracy: false 
+    piracy: false
   - name: 'USB Loader GX Troubleshooting Guide - r/WiiHacks - u/WiiExpertise'
     url: 'https://www.reddit.com/r/WiiHacks/comments/dnfb81/usb_loader_gx_troubleshooting_guide/'
     date: 2019-10-26
@@ -275,7 +275,7 @@ youtube:
     url: 'https://www.youtube.com/watch?v=0tbjKLvK6x4'
     date: 2019-07-08
     description: ''
-    piracy: false
+    piracy: true
   - name: 'Mad Tech Gaming - Gamecube vs Wii (Nintendont) - Frame Rate Comparison - Enhanced Back Compat, Multiple'
     url: 'https://www.youtube.com/watch?v=HPrejZ0J-2c'
     date: 2020-03-16
