@@ -12,40 +12,31 @@ redirect_from: "/amazon/amazon.md"
 
 ### SD Cards and Readers
 
-  Why are there two cards, 30 gigs apart in size, yet the same price? Compatibility. There will be certain homebrew that require the use of a standard SD card, which is 2GB or less. For most people the 32GB option should be great.
-
 #### 2GB
 
-  * ID: B000FGNM6I
-  * Title: Transcend 2 GB SD Flash Memory Card (TS2GSDC) 
-  * Price: 8.99$USD
-  * [Link to Product](https://www.amazon.com/dp/B000FGNM6I/?tag=rwiihacks-20)
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B000FGNM6I&asins=B000FGNM6I&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B0036GM1NY&asins=B0036GM1NY&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
 #### 32GB
 
-  * ID: B07YFG7T8F
-  * Title: SanDisk 32GB Ultra SDHC UHS-I Memory Card - 90MB/s, C10, U1, Full HD, SD Card - SDSDUNR-032G-GN6IN
-  * Price: 7.95$USD
-  * [Link to Product](https://www.amazon.com/dp/B07YFG7T8F/?tag=rwiihacks-20)
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B07YFG7T8F&asins=B07YFG7T8F&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
-  * ID: B00WR4IJBE
-  * Title: Samsung 32GB EVO Plus Class 10 Micro SDHC with Adapter 80mb/s
-  * Price: 8.80$USD
-  * [Link to Product](https://www.amazon.com/dp/B00WR4IJBE/?tag=rwiihacks-20)
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B00WR4IJBE&asins=B00WR4IJBE&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
 #### 64GB
 
-  * ID: B073JYVKNX
-  * Title: SanDisk 64GB Ultra microSDXC UHS-I Memory Card with Adapter - 100MB/s, C10, U1, Full HD, A1, Micro SD Card - SDSQUAR-064G-GN6MA 
-  * Price: 14.42$USD
-  * [Link to Product](https://www.amazon.com/dp/B073JYVKNX/?tag=rwiihacks-20)
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B073JYVKNX&asins=B073JYVKNX&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
 #### Reader
 
-  * ID: B07MBD66GZ
-  * Title: Vanja USB Type C SD Card Reader, USB 3.0 Micro SD Card Reader OTG Adapter for TF, SD, Micro SD, SDXC, SDHC, MMC, RS-MMC, Micro SDXC, Micro SDHC, UHS-I
-  * Price: 10.99$USD
-  * [Link to Product](https://www.amazon.com/dp/B07MBD66GZ/?tag=rwiihacks-20)
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B07MBD66GZ&asins=B07MBD66GZ&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
 ----
 
@@ -54,18 +45,14 @@ redirect_from: "/amazon/amazon.md"
   Do you have your component cable? If so, you'll want one of these as they will allow you a great quality video conversion. My setup includes the higher cost option:
 
 #### Higher Cost Option
-  
-  * ID: B07T29D4RY
-  * Title: EASYCEL Component to HDMI Converter, 1080P Aluminum RGB to HDMI Converter
-  * Price: 34.99$USD
-  * [Link to Product](https://www.amazon.com/dp/B07T29D4RY/?tag=rwiihacks-20)
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B07T29D4RY&asins=B07T29D4RY&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+  
 #### Lower Cost Option
 
-  * ID: B07ZHFR2V3
-  * Title: Component to HDMI Adapter, YPbPr to HDMI Coverter + R/L, NEWCARE Component 5RCA RGB to HDMI Converter Adapter, Supports 1080P Video Audio Converter Adapter for DVD PSP Xbox 360 to HDTV Monitor
-  * Price: 21.59$USD
-  * [Link to Product](https://www.amazon.com/dp/B07ZHFR2V3/?tag=rwiihacks-20)
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B07ZHFR2V3&asins=B07ZHFR2V3&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
 ----
 
@@ -77,24 +64,18 @@ redirect_from: "/amazon/amazon.md"
 
 #### Portholic
 
-  * ID: B0753CZ8MC
-  * Title: PORTHOLIC Wii to HDMI Converter 1080P for Full HD Device, Wii HDMI Adapter with 3,5mm Audio Jack&HDMI Output Compatible with Nintendo Wii, Wii U, HDTV, Monitor-Supports All Wii Display Modes 720P, NTS
-  * Price: 8.99$USD
-  * [Link to Product](https://www.amazon.com/dp/B0753CZ8MC/?tag=rwiihacks-20)
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B0753CZ8MC&asins=B0753CZ8MC&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
 #### AUTOUTLET
 
-  * ID: B07CTKJCKJ
-  * Title: AUTOUTLET Wii to HDMI Converter WII2HDMI Wii Signal to HDMI Support 720P 1080P 3.5MM Audio HD Video Output Adapter with 1M HDMI Cable for Nintendo Wii
-  * Price: 11.99$USD
-  * [Link to Product](https://www.amazon.com/dp/B07CTKJCKJ/?tag=rwiihacks-20)
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B07CTKJCKJ&asins=B07CTKJCKJ&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
 #### Hyperkin HD Cable
 
-  * ID: B072K2DCFM
-  * Title: Hyperkin HD Cable for Wii
-  * Price: 22.99$USD
-  * [Link to Product](https://www.amazon.com/dp/B072K2DCFM/?tag=rwiihacks-20)
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B072K2DCFM&asins=B072K2DCFM&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
 #### A side note from me channeling u/WiiExpertise
 
@@ -108,10 +89,11 @@ redirect_from: "/amazon/amazon.md"
 
 ### Controllers, chucks and Wiimotes
 
-  * ID: B0046ECA0Y
-  * Title: Nintendo Red Nunchuk for Wii 
-  * Price: 12.99$USD
-  * [Link to Product](https://www.amazon.com/dp/B0046ECA0Y/?tag=rwiihacks-20)
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B0046ECA0Y&asins=B0046ECA0Y&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B001KWE2WE&asins=B001KWE2WE&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
 ----
 
@@ -119,22 +101,16 @@ redirect_from: "/amazon/amazon.md"
 
 #### Internal 2.5 Inch
 
-  * ID: B0100ZM5QG
-  * Title: 500GB Toshiba 2.5-inch SATA laptop hard drive (5400rpm, 8MB cache) MQ01ABD050V 
-  * Price: 22.97$USD
-  * [Link to Product](https://www.amazon.com/gp/product/B0100ZM5QG/?tag=rwiihacks-20)
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B0100ZM5QG&asins=B0100ZM5QG&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
-  * ID: B07H28QRKN
-  * Title: Seagate BarraCuda 1TB Internal Hard Drive HDD – 2.5 Inch SATA 6 Gb/s 5400 RPM 128MB Cache
-  * Price: 47.49$USD
-  * [Link to Product](https://www.amazon.com/gp/product/B07H28QRKN/?tag=rwiihacks-20)
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B07H28QRKN&asins=B07H28QRKN&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
 #### Internal 3.5 Inch
-  
-  * ID: B07D99KFPK
-  * Title: Seagate Bare Drives BarraCuda 1TB Internal Hard Drive HDD – 3.5 Inch SATA 6 Gb/s 7200 RPM 64MB Cache
-  * Price: 45.99$USD
-  * [Link to Product](https://www.amazon.com/gp/product/B07D99KFPK/?tag=rwiihacks-20)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B07D99KFPK&asins=B07D99KFPK&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
 ----
 
@@ -143,18 +119,17 @@ redirect_from: "/amazon/amazon.md"
 #### 2.5" SATA USB 3.0
 
   For less than ten dollars USD, this is a great deal. I own two and we have at least a few more circling through the moderation staff. They can fit any 2.5" SATA drive and work well with the ones listed above.
-  
-  * ID: B00OJ3UJ2S
-  * Title: Sabrent 2.5-Inch SATA to USB 3.0 Tool-Free External Hard Drive Enclosure
-  * Price: 8.99$USD
-  * [Link to Product](https://www.amazon.com/dp/B00OJ3UJ2S/?tag=rwiihacks-20)
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B00OJ3UJ2S&asins=B00OJ3UJ2S&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B00UVT32PK&asins=B00UVT32PK&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+  
 #### 3.5" EIDE USB 2.0
 
-  * ID: B004BU6ITW
-  * Title: Rosewill RX35-AT-IU BLK Aluminum 3.5-Inch IDE to USB 2.0 External Enclosure (Black) 
-  * Price: 23.20$USD
-  * [Link to Product](https://www.amazon.com/gp/product/B004BU6ITW/?tag=rwiihacks-20)
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B004BU6ITW&asins=B004BU6ITW&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
 ----
 
@@ -162,19 +137,15 @@ redirect_from: "/amazon/amazon.md"
 
   Testing and working by a member of our staff:
 
-  * ID: B00MYT481C
-  * Title: UGREEN Ethernet Adapter USB 2.0 to 10/100 Network RJ45 LAN Wired Adapter Compatible for Nintendo Switch, Wii,
-  * Price: 16.99$USD
-  * [Link to Product](https://www.amazon.com/dp/B00MYT481C/?tag=rwiihacks-20)
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B00MYT481C&asins=B00MYT481C&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
 ---
 
 ### USB Hub for Wii Mini
 
-  * ID: B06XKZLZXL
-  * Title: Unitek USB Ethernet Adapter 7-Port Hub, 6 Ports USB 3.0 Hub with Gigabit Ethernet Converter, 2.4A Charging Port, 36W Powered Data Hub Splitter, Compatible MacBook, iMac, Surface Pro, Laptop PC, HDD 
-  * Price: 35.99$USD
-  * [Link to Product](https://www.amazon.com/dp/B06XKZLZXL/?tag=rwiihacks-20)
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B06XKZLZXL&asins=B06XKZLZXL&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
 ----
 
@@ -182,32 +153,26 @@ redirect_from: "/amazon/amazon.md"
 
   This is what I am currently using to run my newly converted component to hdmi video out to my streaming PC.
 
-  * ID:B0894DDD7H
-  * Title: ZasLuke 4K HDMI Game Capture Card, USB 3.0 HDMI Video Capture Device with HDMI Loop-Out 1080P 60FPS Live Streaming Game Recorder Device for PS4, Nintendo Switch, Xbox One&Xbox 360 and More (Black) 
-  * Price: 63.99$USD
-  * [Link to Product](https://www.amazon.com/dp/B0894DDD7H/?tag=rwiihacks-20)
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B0894DDD7H&asins=B0894DDD7H&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
 ----
 
 ### Tools
 
-  u/WiiExpertise suggested this tool set for working on your Wii.
+  u/WiiExpertise recommends this tool set for working on your Wii.
 
-  * ID: B06XHLM4DX
-  * Title: HIGHFINE Triwing 1.5 2.5 3.0 and Phillips PH00 Screwdriver Set Repair for Nintendo Products Wii DS Lite DSi 3DS GBA SP NDS
-  * Price: 8.29$USD
-  * [Link to Product](https://www.amazon.com/dp/B06XHLM4DX/?tag=rwiihacks-20)
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B06XHLM4DX&asins=B06XHLM4DX&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
 ----
 
 ### Replacement Drive
 
-  If you're still using your drive, here take this. You'll need it.
+  If you're still using your original optical drive, here take this. You'll need it.
 
-  * ID: B00APTQR62
-  * Title: Original Nintendo Wii DVD Drive Replacement Plug-and-Play Unit
-  * Price: 28.41$USD
-  * [Link to Product](https://www.amazon.com/dp/B00APTQR62/?tag=rwiihacks-20)
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B00APTQR62&asins=B00APTQR62&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
 ----
 
@@ -215,10 +180,8 @@ redirect_from: "/amazon/amazon.md"
 
   We're getting mid-range audio here. If you want to just send your signal to your computer, the above should do just fine. However if you want to have more control over your audio, as well as add additional audio sources such as mics for streaming. It's not a casual user's device.
 
-  * ID: B00IBIVL42
-  * Title: YAMAHA MG10XU 10-Input Stereo Mixer With Effects
-  * Price: 209.99$USD
-  * [Link to Product](https://www.amazon.com/dp/B00IBIVL42/?tag=rwiihacks-20)
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B00IBIVL42&asins=B00IBIVL42&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
 ----
 
@@ -226,7 +189,5 @@ redirect_from: "/amazon/amazon.md"
 
   Another product not for the casual user; if you need more than one headset hooked up to the same output and have individual volume control for them, here's an inexpensive solution.
 
-  * ID: B07WF7ZYP6
-  * Title: Donner Headphone Amplifier Professional Ultra-Compact 4-Channel Stereo Headphone Amp DEL-4 for Studio and Stage
-  * Price: 33.99$USD
-  * [Link to Product](https://www.amazon.com/dp/B07WF7ZYP6/?tag=rwiihacks-20)
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement=B07WF7ZYP6&asins=B07WF7ZYP6&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
