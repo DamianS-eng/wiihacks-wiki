@@ -10,6 +10,8 @@ redirect_from: "/amazon/amazon.md"
 
  **Disclaimer** These are Amazon Affiliate Links. If you click on them and order something we get a kickback.
 
+ Lastly, if you have an ad-blocker enabled it might filter the links below. You'll have to add this page as an exception if you'd like to see them.
+
 ### SD Cards and Readers
 
 #### 2GB
