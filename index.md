@@ -20,30 +20,30 @@ Here is a [link to our Discord](https://discord.gg/6fsXnTr)
 
 ----
 
-1. [Rules](./rules/rules.md)
+* [Rules](./rules/rules.md)
 
    This section contains the rules to the forum.
 
-2. [Posting Guidelines](./rules/posting.md)
+* [Posting Guidelines](./rules/posting.md)
 
    General guidelines for posting on the subreddit.
 
-3. [F.A.Q.s](./faqs/faqs.md)
+* [F.A.Q.s](./faqs/faqs.md)
  
    Frequently asked questions and posting advice.
 
-4. [Tutorials](./tutorials/tutorials.md) 
+* [Tutorials](./tutorials/tutorials.md) 
     
    Tutorials for different tasks written by our staff team.
 
-5. [Recommended Hardware](./amazon/amazon.md)
+* [Recommended Hardware](./amazon/amazon.md)
 
    Our curated list of Amazon items that will aid you in modding your Wii.
 
-6. [Wii HomeBrew Development](./wiidev/wiidev.md) 
+* [Wii HomeBrew Development](./wiidev/wiidev.md) 
    
    Developing for the Wii.
 
-7. [More Links](./links/links.md)
+* [More Links](./links/links.md)
    
    Extra links.
