@@ -34,16 +34,16 @@ Here is a [link to our Discord](https://discord.gg/6fsXnTr)
 
 4. [Tutorials](./tutorials/tutorials.md) 
     
-   Tutorials for different tasks.
+   Tutorials for different tasks written by our staff team.
 
 5. [Recommended Hardware](./amazon/amazon.md)
 
    Our curated list of Amazon items that will aid you in modding your Wii.
 
-6. [WiiDev](./wiidev/wiidev.md) 
+6. [Wii HomeBrew Development](./wiidev/wiidev.md) 
    
-   Development on the Wii.
+   Developing for the Wii.
 
-7. [Useful Links](./links/links.md)
+7. [More Links](./links/links.md)
    
    Extra links.
