@@ -8,7 +8,7 @@ redirect_from: "/wiidev/setup.md"
 
   So you want to develop something for the Wii and ended up here.
 
-  Below is my instructional on setting up a development environment for making Homebrew Wii applications.
+  Below is our instructional on setting up a development environment for making Homebrew Wii applications.
 
   First we're going to start out with some basic requirements.
 
@@ -32,7 +32,7 @@ redirect_from: "/wiidev/setup.md"
 
   If you are not a linux user and don't or can't change, then in Windows there are a few ways around this. MSYS and Cygwin are a couple of options. These extra layers are harder to setup than a native posix environment and add yet another element to troubleshoot should you have issues.
 
-  OSX *is* a posix environment but it is heavily locked down by the manufacturer. I'm also not a Mac user so I can't really even start to tell you what might get in your way if you chose this route.
+  macOS *is* a posix environment but it is heavily locked down by the manufacturer. I'm also not a Mac user so I can't really even start to tell you what might get in your way if you chose this route.
 
   Also setting up an IDE type environment is possible, but just another step in making a comfortable environment. It doesn't come with one. So far you'll be entering in code and stuff with a text editor, and manipulating files via the command-line. Sometimes you'll be working in command line-based text editors.
 
