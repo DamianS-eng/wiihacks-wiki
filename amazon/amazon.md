@@ -144,23 +144,13 @@ redirect_from: "/amazon/amazon.md"
 
 ----
 
-### USB to Ethernet
+### USB Hub + Lan Adapter
 
   Testing and working by a member of our staff:
 
-{% for id in site.data.amazon.usbeth %}
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement={{id}}&asins={{id}}&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-  </iframe>
-{% endfor %}
+https://www.ebay.com/itm/233080282107 
 
----
-
-### USB Hub for Wii Mini
-
-{% for id in site.data.amazon.usbhub %}
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=rwiihacks-20&marketplace=amazon&region=US&placement={{id}}&asins={{id}}&linkId=258e5c28f7e5c08b4f5648b36c9301b5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-  </iframe>
-{% endfor %}
+While this USB Hub with a LAN port isn't from Amazon, we included it because it is one of the cheapest options for the job and is from a trusted brand.
 
 ----
 
