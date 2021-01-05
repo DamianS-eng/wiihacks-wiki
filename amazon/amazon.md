@@ -148,7 +148,7 @@ redirect_from: "/amazon/amazon.md"
 
   Testing and working by a member of our staff:
 
-https://www.ebay.com/itm/233080282107 
+[Ebay Link](https://www.ebay.com/itm/233080282107)
 
 While this USB Hub with a LAN port isn't from Amazon, we included it because it is one of the cheapest options for the job and is from a trusted brand.
 
