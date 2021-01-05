@@ -1,7 +1,7 @@
 emulators:
   - name: 'mGBA'
     url: 'https://mgba.io/'
-    description: 'Gameboy Advanced Emulator'
+    description: 'Gameboy Advance Emulator'
   - name: 'FCE Ultra GX'
     url: 'https://github.com/dborth/fceugx'
     description: 'NES Emulator.'
