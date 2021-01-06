@@ -4,11 +4,14 @@ description: Links related to Wii Modding and more.
 redirect_from: "/links/links.md"
 ---
 
+# Useful Links Intro:
+
+  These links will help you get the most out of your Wii. From useful to interesting.
+
 # ***WARNING!***
 
-  * A lot of software or links in this article's pages may be outdated and have problems. We recommend using up-to-date info endorsed by us. 
-  
-  * Many of these links are listed for archival purposes and you should not use them unless someone trustable tells you to
+  * There is a lot of software listed that is old and no longer used. Please make sure you know what you're doing before you attempt to use any software you aren't familiar with. 
+  * There are youtuber's and youtube tutorials listed which are known to cause issues when their videos are followed. Please do your research before using them.
 
 # Categories
 

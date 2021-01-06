@@ -6,7 +6,7 @@ redirect_from: "/links/software.md"
 
 # Software for the Wii
 
-  Various Software for the Wii, broken down into four categories:
+  Various Software for the Wii, broken down into three categories:
 
 ## ***WARNING!***
 
@@ -14,7 +14,7 @@ redirect_from: "/links/software.md"
 
 ## Emulators
 
-  Here you will find links to emulators for the Wii.
+  Here you will find links to emulators for the Wii and articles related to using them.
 
 {% for link in site.data.links_software.emulators %}
   * [{{ link.name }}]({{ link.url }}) - {{ link.description }}
@@ -22,7 +22,7 @@ redirect_from: "/links/software.md"
 
 ## Loaders
 
-  This section is for software that loads images of game titles through external storage
+  This section is for software that loads other software either onto your Wii's long-term storage, or into memory to run.
 
 {% for link in site.data.links_software.loaders %}
   * [{{ link.name }}]({{ link.url }}) - {{ link.description }}
@@ -30,17 +30,9 @@ redirect_from: "/links/software.md"
 
 ## Modding/Utility
 
-  This is software that either helps you mod your Wii or is not an emu/loader
+  This is software directly related to modding your Wii, or interacting with your Wii system.
 
 {% for link in site.data.links_software.utility %}
-  * [{{ link.name }}]({{ link.url }}) - {{ link.description }}
-{% endfor %}
-
-## Archive - *Work in progress*
-
-  This section is for software that should not be used or is kept here for archival purposes
-  
-  {% for link in site.data.links_software.archive %}
   * [{{ link.name }}]({{ link.url }}) - {{ link.description }}
 {% endfor %}
 

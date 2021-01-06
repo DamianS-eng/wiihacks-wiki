@@ -5,7 +5,7 @@ redirect_from: "/tutorials/nintendont.md"
 
 # Nintendont
 
-Nintendont is a Wii homebrew app to play Gamecube games on Wii and the WiiU's vWii.
+Nintendont is a Wii mode homebrew to play Gamecube games on Wii and WiiU vWii.
 
 Nintendont is not a modification or emulator. It's more like a bridge between an emulator and a virtual machine which runs Gamecube games natively.
 
@@ -20,9 +20,14 @@ Nintendont doesn't have a package that is fully put together, it requires a litt
 1. Finally download and put the [icon.png](https://github.com/FIX94/Nintendont/blob/master/nintendont/icon.png?raw=true) file in to `apps/Nintendont`.
 
 ## Ripping your Gamecube Games
-The method to make Gamecube game rips is to use [CleanRip](https://wii.guide/cleanrip). It runs on both the Gamecube and the Wii. The only issue with using it for Gamecube games is that it doesn't put them in the correct location for Nintendont. It requires you to put your storage device in to your computer, then move and rename the image correctly.
+The old method to make Gamecube game rips is to use [CleanRip](https://wiibrew.org/wiki/CleanRip). It runs on both the Gamecube and the Wii. The only issue with using it for Gamecube games is that it doesn't put them in the correct location for Nintendont. It requires you to put your storage device in to your computer, then move and rename the image correctly.
 
-You can do that by following this little diagram and using a FAT32 formatted USB or SD storage deivce: USB:/games/GameName GameID/GameID.iso (Get the Game IDs from [GameTDB](https://gametdb.com/)
+The easiest method method is to use USB Loader GX to rip your Gamecube games. It will put them in the correct folder structure for Nintendont, and it still does a 1:1 copy like CleanRip.
+
+## Gamecube Image Directory Structure
+Your Gamecube games need to be on either your FAT32 formatted SD card or a FAT32 formatted storage device.
+
+Create a folder names `games` on your storage device. Each game needs to be in their own folder, you then name the game EXACTLY as `game.iso` or `game.gcm` depending on their extension.
 
 ## _(Optional)_ Dump Gamecube BIOS for use with Nintendont
 _Note: This is a completely optional thing. Nintendont runs perfectly fine without it. It's just if you want that nostalgic Gamecube start up when you use it._

@@ -4,6 +4,12 @@ description: A wiki maintained by the r/WiiHacks community.
 redirect_from: "/faqs/faqs.md"
 ---
 
+## [Modding F.A.Q.](./modding.md)
+
+  You can find the modding FAQ [here](./modding.md).
+
+----
+
 ## Regarding the subreddit.
 
 ### My post keeps getting flagged for Rule #4, why?
@@ -32,73 +38,39 @@ redirect_from: "/faqs/faqs.md"
 
 ----
 
-## Modding the Wii.
+## USB Loader GX
+
+  These are the most common questions regarding USB Loader GX in which we get a lot of. If you can't find the answer here, you will most certainly be able to find it in the subreddit search.
+
+### Can I use an SD Card?
+
+  * For certain things, yes. However the Wii's SD Card slot, thanks to security encryption is considerably slower than the USB. So what does work works slower and with less compatibility than if you were using a USB device.
 
 ### My games aren't (showing up or loading) in USB Loader GX? Black Screen, Blank List, etc
 
-  * The staff team has compiled a list of 6 reasons why your USB/SD loader isn't working.
+  Here is a basic checklist:
 
-  * Wrong USB port. The only USB port that can run game backups is the one on the edge of the Wii, unless you are using d2x beta53-alt cIOS, which is not recommended as it is not as compatible.
+  * Have you tried making sure they are checked to be displayed in USB Loader GX? You can get to this by pressing +, or make sure that your favorites aren't turned on.
 
-  * cIOS is not set up correctly (follow https://wii.guide/cios). We can only confirm it is done right with a syscheck (follow https://wii.guide/syscheck). Keep in mind that some games that use accessories will require a different IOS to run.
-
-  * Image is bad/corrupted. Testable in Dolphin Emulator. Make sure it's wbfs or iso (not nkit) if you're trying to play a Wii game.
-
-  * Use the latest version of your loader, use default settings and name the games as such for Wii games> USB:/wbfs/GameName [GameID]/GameID.wbfs
-
-  * USB isn't compatible. That is most likely to happen with flash drives. HDDs are always the best way to store games on the Wii.
-
-  * Don't use a forwarder. Launch the app directly from the Homebrew Channel.
-
-### How do I mod my Wii?
-
-  * [wii.guide](https://wii.guide/)
-
-  * This is the current approved guide for modding your Wii.
-
-  * Please read and perform every step. Do not skip steps.
-
-  * Do not delete any folders/files that will be generated during the mod process or after.
-
-
-### What extra hardware do I need?
-
-  * An SD Card, an SD Card Reader, and some form of USB Storage, if you want to minimize risk, a hard drive that isn't powered by the USB.
-
-
-### Can I do it without an SD Card and or USB Hard Drive/Memory Stick?
-
-  * You can mod your Wii without an SD card. Eventually you will need some form of storage to store your homebrew applications, and your games, whether they be Wii, GameCube, or emulator roms.
-
-### What size should my SD Card be?
-
-  * Anything from 512mb (yeah, I still have one) to 32gb and above have been known to work just fine. You want to make sure it's large enough to accommodate everything you want to put on it, which you can easily figure out by gathering it all together and prepping it on your computer.
-
-### How about the size of my USB storage?
-
-  * Wii games can range from larger than the size of a single DVD and down. If you're a casual player and only have a few games, 100GB would do just fine. However the larger/newer the drives get, the more incompatibilities you might experience.
-
-### How do I know the current mod state of my Wii?
-
-  * Currently [SysCheck](http://www.wii.guide/syscheck) is recommended. Though be warned, there are certain kit-installers that can change your IOSes without changing the version number, thereby preventing your Wii from being modified. 
-
-### Can I Un-MOD my Wii? Will formatting it remove the mods?
-
-  * Sure. However first warning; you're looking at a procedure far more complex than what you did to mod your Wii.
-
-  * Formatting the Wii will only remove user data. Removing/deleting the SD Card or USB Device will remove all homebrew and games.
-
-  * If you can; updating the Wii might remove *most* of the modified software. Been wanting to make that jump from 4.1 to 4.3? Now's your chance. Just fair warning, this has the potential to brick your Wii.
-
-  * If you were lucky enough to not be able to use an upgrade, you'll want to download all of the stock IOS and replace all of the modified ones with originals. Of course you'll still need your homebrew to do this with... The suggested tool would be the NUS Downloader.
-
-  * Seriously, there's no good reason to un-mod a Wii. You probably won't get more thorough help than this in doing so because no one does. However if you insist, please direct your questions toward GBATemp, as these posts never go anywhere in r/WiiHacks.
-
-### I want to change a different SD Card / USB Device, can I just copy everything over?
-
-  * Yes. You can use normal filecopy operations of your OS to move files from one location to the other, with no issue.
+  * Make sure your drive is plugged into the right port and being detected. It *needs* to be in the port closest to the outside of the device.
   
-  * If you're moving to an SD Card remember that USB Loader GX will have to be replaced with something that will play Wii games off a SD Card.
+  * Make sure you're Wii has the correct cIOSes needed to run it. You can find that information [here](https://wii.guide/cios)
+  
+  * Ensure your hard drive is formatted in a way that can be read by whatever you are using. Wii games will work on NTFS, but the most compatible will be FAT32. You can format a drive in FAT32 from Windows by using the command line. DDG/Google.
+  
+  * Make sure your game files are in the proper directory structure. They are different for Wii/USBLoaderGX games, and Nintendont games. You can find information on how to do that in the links below:
+
+    [nintendont](https://github.com/FIX94/Nintendont) -> For your GameCube games.
+
+    [usb loader gx](https://sourceforge.net/p/usbloadergx/wiki/Installation/) -> For your Wii games.
+
+  * Make sure USB Loader is configured properly. You can find information on doing so in the link above. Worst case scenario, rename your config so it will generate a new one.
+
+  * Are your images wbfs or iso? If they have the extension '.nkit' they will not work. Get a different image or learn to convert that one.
+  
+  * Last things to try are 'replacements'. Try a new game image, a different USB device, or SD card if possible. Yours might not be compatible, or sometimes not even good.
+  
+  * This information and more can be found in a user posted troubleshooting guide [here](https://www.reddit.com/r/WiiHacks/comments/dnfb81/usb_loader_gx_troubleshooting_guide/).
 
 ### Ripping games using USB Loader GX isn't working.
 
@@ -106,8 +78,24 @@ redirect_from: "/faqs/faqs.md"
 
   * After this issue appearing in the subreddit numerous time, the general public consensus is to not use it to rip games. It doesn't do it reliably, or accurately.
   
-  * Use [CleanRip](https://wii.guide/cleanrip) instead. It's more recently maintained and works much better.
+  * Use [CleanRip](https://github.com/emukidid/cleanrip) instead. It's more recently maintained and works much better.
 
+### Why is my [Crap](https://sites.google.com/site/completesg/backup-launchers/usb/crap) Forwarder not working in USB Loader GX?
+
+  * USB Loader GX was recently updated and it broke Crap compatibility. 
+  * Currently we have tested Crap forwarders on USB Loader GX v3.0 rev 1271.
+  * If you are using USB Loader GX v3.0 rev 1272, it will not work.
+
+#### References:
+
+  https://www.reddit.com/r/WiiHacks/comments/efone1/usb_loader_gx_isnt_launching_through_my_crap_wads/
+
+----
+
+## Miscellaneous
+
+  While the faq is growing, anything that doesn't have its own category will go here.
+  
 ### Homebrew Browser
 
   * If you're going to use it, please make sure you're using the newer repository, [OSC, which can be found here](https://oscwii.org).
@@ -118,32 +106,18 @@ redirect_from: "/faqs/faqs.md"
 
 ### How do I manage my virtual Wii game library?
 
-  * One of our moderators has made a guide to organasing your games without a special programme
-
-  * The first step is making a "wbfs" folder on the root of your USB device if there isn't already one. If there already is one, then you're already one step ahead.
-
-  * Inside the "wbfs" folder will be game folders, once you've made them. For example, inside that "wbfs" folder, Wii Sports would look like this:
-
-  * /USB drive/wbfs/Wii Sports [RSPE01]/RSPE01.wbfs
-
-  * If you're using .iso files instead of .wbfs files, make sure to change them using this tool here. It's a far superior way of storing games on external storage.
-
-  * https://isotowbfs.com/
-
-  * That 6 digit code after the name of the game is called the game ID. You can find them here by searching the game's name and copying that code.
-
-  * https://gametdb.com/
-
-  * After you have the game folder, which is inside the "wbfs" folder, plop your file inside. It must be named like the example above.
-
-  * And congratulations, you just added a Wii game to your USB device manually. You'll get faster the more you do it.
+  * Use [WiiBackupManager](http://www.wiibackupmanager.co.uk/WiiBackupManager_Build78.html) to get proper folder structure, gameID and to split large game files.
 
 ### How do I get WADs and Channel forwarders onto my Wii?
 
-  * [Wii Mod Lite](https://wii.guide/wiimodlite) is a great way to easily install wad files and channel forwarders.
+  * [YAWMM](https://github.com/FIX94/Some-YAWMM-Mod) is a great way to easily install wad files and channel forwarders.
+
+### What Modded Wii Games can I play?
+
+  * Check out our [useful links](https://www.wiihacks.org/links/links) page.
 
 ----
 
 ## Helping out...
 
-  * If you have any corrections, additions or suggestions, please message the moderators. We'd be glad to hear it.
+If you have any corrections, additions or suggestions, please message the moderators. We'd be glad to hear it.
