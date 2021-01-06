@@ -6,7 +6,7 @@ redirect_from: "/links/software.md"
 
 # Software for the Wii
 
-  Various Software for the Wii, broken down into three categories:
+  Various Software for the Wii, broken down into four categories:
 
 ## ***WARNING!***
 
