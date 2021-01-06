@@ -39,4 +39,8 @@ redirect_from: "/links/software.md"
 ## Archive - *Work in progress*
 
   This section is for software that should not be used or is kept here for archival purposes
+  
+  {% for link in site.data.links_software.archive %}
+  * [{{ link.name }}]({{ link.url }}) - {{ link.description }}
+{% endfor %}
 
