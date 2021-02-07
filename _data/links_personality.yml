@@ -78,7 +78,7 @@ youtube_channels:
   - name: 'Tech James'
     url: 'https://www.youtube.com/user/Squirtle555/'
     description: 'I upload clean and easy to follow homebrew tutorials.'
-  - name: ' Michael MJD'
+  - name: 'Michael MJD'
     url: 'https://www.youtube.com/michaelmjd'
     description: 'Obscure Tech, Homebrew, and Retro Software.'
 
