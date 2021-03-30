@@ -1,3 +1,3 @@
-# WiiHacks Wiki
+No longer maintained.
 
-Please contact bloodythorn for any immediate issues.
+[rWiiHacks Community WebHub](https://www.rwiihacks.com)
