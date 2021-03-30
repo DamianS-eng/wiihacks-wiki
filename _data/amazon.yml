@@ -1,0 +1,65 @@
+sd2gb:
+  - "B0036GM1NY"
+  - "B000FGNM6I"
+
+sd32gb:
+  - "B07YFG7T8F"
+  - "B00WR4IJBE"
+
+sd64gb:
+  - "B073JYVKNX"
+
+sdreader:
+  - "B07MBD66GZ"
+
+component_to_hdmi:
+  - "B07T29D4RY"
+  - "B07ZHFR2V3"
+
+component_cable:
+  - "B07TL6L7MY"
+  - "B00CA8636K"
+
+wii2hdmi:
+  - "B0753CZ8MC"
+  - "B07CTKJCKJ"
+  - "B072K2DCFM"
+
+controllers:
+  - "B0046ECA0Y"
+  - "B001KWE2WE"
+
+hdint25:
+  - "B0100ZM5QG"
+  - "B07H28QRKN"
+  - "B00HUFIU1Y"
+
+hdint35:
+  - "B07D99KFPK"
+
+hdenc25:
+  - "B00OJ3UJ2S"
+  - "B00UVT32PK"
+  - "B00UVT32PK"
+
+hdenc35:
+  - "B004BU6ITW"
+
+usbeth:
+  - "B00MYT481C"
+
+usbhub:
+  - "B06XKZLZXL"
+
+capture:
+  - "B08LVKFZG1"
+
+tools:
+  - "B06XHLM4DX"
+
+repl_parts:
+  - "B00APTQR62"
+
+pro_audio:
+  - "B00IBIVL42"
+  - "B07WF7ZYP6"
